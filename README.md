@@ -5,7 +5,7 @@ The input is an array of randomly generated integers and the output is the same 
 That is, the values of the array increase from left to right.
 
 # Usage
-Since this program depends on the `math.inf` functionality, only Python3 is supported.
+Since this program depends on the `math.inf` functionality, only Python 3.5+ is supported.
 Three arguments are required to run the program: `--min (-m)`, `--max (-M)`, and 
 `--sample-size (-s)`. These arguments affect the composition of the input array that will be partitioned.
 The `--min` argument sets the minimum allowed value of an integer in the array, the `--max` argument sets the maximum
